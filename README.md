@@ -1,7 +1,7 @@
 This is a library lending system made using Java and the Swing GUI framework along with MySQL database integration.
 The system includes administrator and user roles, with different panels for each. Books, their stock, details and current lending status are all visible and editable by admins.
 
-This was created in the second semester of my first year in Computer Engineering. Detailed analysis Below.
+This was created in "Computer Programming 2" class in the second semester of my first year in Computer Engineering. Detailed analysis Below.
 
 ![NouredeenHammadProjectReport-1](https://github.com/NouredeenM17/Nouredeen_Hammad_2121221362_bp2_project/assets/107249282/839c26a5-a704-4317-8662-3bc0c3e6b802)
 ![NouredeenHammadProjectReport-2](https://github.com/NouredeenM17/Nouredeen_Hammad_2121221362_bp2_project/assets/107249282/d6747996-29ae-48ee-95b8-53697266b4b7)
